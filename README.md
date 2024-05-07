@@ -1,6 +1,8 @@
 ### In progress👋
 
+<p align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNncDJrM3J0Z2RjYXRiNXg5YzFxdzhrMnh3NXBxcm1xcTlxcHNjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSTae7PbrqiEj9Byor/giphy.gif" width ="600">
+</p>
 
 
 
