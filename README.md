@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="imgratio">
-    <img src="https://drive.google.com/file/d/1F8Pn8hq2p443Wy4UWVSoM1kOXnpoxv9e/view?usp=sharing" width="600">
+    <img src="https://ibb.co/sqMVzJD" width="600">
 
 
 
