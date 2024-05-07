@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/LSTae7PbrqiEj9Byor" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LSTae7PbrqiEj9Byor">via GIPHY</a></p>
+<img src="https://giphy.com/embed/LSTae7PbrqiEj9Byor">
 
 
 
