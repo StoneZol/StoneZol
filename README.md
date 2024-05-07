@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<div id="imgratio">
-<img src="https://i.ibb.co/SB93G71/b1-3.gif">
+<img src="https://t.me/andsobeit/350">
 
 
 
