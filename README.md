@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://t.me/andsobeit/350">
+<img src="https://cdn4.cdn-telegram.org/file/Lr0nLIowiOmH24oZU9s3_HIEnDz-mkFTJ9x81tvGLCUdVtMROhTz7tdaBYvcSNF9rgscjjF4puYIfeNHV3PR-DdUp2bfpbIclcyr3Qcxnv-Wnldcli_hpWgAKvfU8ay9h20A-skfVIOrPHxtvdq0Wl7esb50CvskqmH3yxH2F_UCgKgSS2PgJ-V-MkohN188668Zo4bgG6W1uYnHKIHAjLr4CDHu5QAKBAH1slu_AFcOKBdKfBfvNh6eiBjsYPo9N45E05bJAzBHS5WGud4yXXdasJYCtHKwxhW2PktCVQvEz00LbsuA6HTqmqhPFxz1Q1V5qCVdOByoTs8sz1iImA">
 
 
 
