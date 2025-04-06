@@ -1,6 +1,6 @@
 # 💫 About Me:
-####  Frontend developer specializing in React and Next.js. 
-Experienced with FSD methodology, SSR/ISR, performance optimization, and REST API integration. I develop cross-browser and adaptive pages, using Redux Toolkit, SCSS, and Docker. I strive to improve user experience through proper architecture and high-quality execution.
+###  Frontend developer specializing in React and Next.js. 
+#### Experienced with FSD methodology, SSR/ISR, performance optimization, and REST API integration. I develop cross-browser and adaptive pages, using Redux Toolkit, SCSS, and Docker. I strive to improve user experience through proper architecture and high-quality execution.
 
 <p align='center'><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNncDJrM3J0Z2RjYXRiNXg5YzFxdzhrMnh3NXBxcm1xcTlxcHNjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSTae7PbrqiEj9Byor/giphy.gif" width ="600"></p>
 
