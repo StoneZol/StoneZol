@@ -4,7 +4,7 @@
 
 # 🌐 Socials:
 [![TG](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/Stone_Zol) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miha2000rus@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shcherbakov.mikhail.dev@yandex.com) 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/stonezol/)
 
 ![](https://komarev.com/ghpvc/?username=StoneZol)
